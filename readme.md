@@ -58,10 +58,8 @@ Klik daarna op **Reload** bij de extensie in `chrome://extensions/`.
 
 ## 📋 TODO
 
-- [ ] Automatisch updaten bij verandering op pagina
-- [ ] Ondersteuning voor meerdere wedstrijden op één pagina
-- [ ] Export naar CSV-formaat
+- [ ] timestamps bij highlights
 
 ## 📜 Licentie
 
-MIT © [Jouw Naam]
+MIT © Shogi
