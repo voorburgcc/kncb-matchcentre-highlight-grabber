@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "Cricket Textual Highlights Grabber",
+  "version": "2.1",
+  "description": "Extracts highlights from cricket match ball-by-ball commentary on KNCB Matchcentre",
+  "permissions": ["activeTab", "scripting"],
+  "icons": {
+    "512": "cricket-512.png"
+  },
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://matchcentre.kncb.nl/*"],
+      "js": ["content.js"],
+      "css": ["css/switch.css"]
+    }
+  ],
+  "default_locale": "en",
+  "encoding": "UTF-8"
+}

@@ -1,0 +1,10 @@
+{
+  "extensionName": {
+    "message": "Cricket Textual Highlights Grabber",
+    "description": "The name of the extension."
+  },
+  "extensionDescription": {
+    "message": "Extracts highlights from cricket match ball-by-ball commentary on KNCB Matchcentre",
+    "description": "The description of the extension."
+  }
+}
