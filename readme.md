@@ -23,7 +23,7 @@ Deze tekst kan direct in de YouTube-beschrijving geplakt worden.
 1. Clone deze repository:
 
    ```bash
-   git clone https://github.com/<jouwgebruikersnaam>/<repo-naam>.git
+   git clone https://github.com/voorburgcc/kncb-matchcentre-highlight-grabber.git
    ```
 
 2. Open Chrome en ga naar: `chrome://extensions/`
@@ -44,7 +44,7 @@ Deze tekst kan direct in de YouTube-beschrijving geplakt worden.
 
 ```bash
 git add .
-git commit -m "Update highlight parser"
+git commit -m "wat je wijzigt"
 git push
 ```
 
@@ -62,4 +62,4 @@ Klik daarna op **Reload** bij de extensie in `chrome://extensions/`.
 
 ## 📜 Licentie
 
-MIT © Shogi
+MIT © Voorburg Cricket Club
